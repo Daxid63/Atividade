@@ -14,3 +14,12 @@ while True:
     else:
         print('Palavra não encontrada')
         # O que devemos fazer se a palavra não for encontrada?
+
+import math
+math.nan == math.nan
+
+float('nan') == float('nan')
+
+math.isnan(math.nan)
+
+math.isnan(float('nan'))
